@@ -196,7 +196,6 @@ ul.tweet_list li span {
 	-moz-transition: all 0.7s ease-in-out;
 	-o-transition: all 0.7s ease-in-out;
 	transition: all 0.7s ease-in-out;
-	behavior: url(PIE.htc);
 }
 #header #about-me {
 	background-color:#3B5998;
@@ -234,6 +233,21 @@ ul.tweet_list li span {
 #header #portfolio:hover {
 	border:5px solid #8D4916;
 }
+#header #about-me.active {
+	border:5px solid #0000A0;
+}
+#header #work.active {
+	border:5px solid #D4414B;
+}
+#header #education.active {
+	border:5px solid #6C8A25;
+}
+#header #skills.active {
+	border:5px solid #1F7F75;
+}
+#header #portfolio.active {
+	border:5px solid #8D4916;
+}
 #header h1 {
 	text-align:center;
 }
@@ -242,7 +256,7 @@ ul.tweet_list li span {
 	position:relative;
 	overflow:hidden;
 	width:940px;
-	height:401px;
+	height:201px;
 	padding-bottom:20px;
 }
 .slider {
