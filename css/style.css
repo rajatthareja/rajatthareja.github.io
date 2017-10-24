@@ -91,9 +91,8 @@ ul.tweet_list li span {
 	padding-bottom:70px;
 }
 #top-bar {
-	background-color:#3B5998;
-	border-bottom:5px solid #fff;
-	border-top:5px solid #fff;
+	background-color:#444444;
+	border-bottom:5px solid #2f2f2f;
 	padding:15px 0 15px 0;
 }
 #top-bar-content {
