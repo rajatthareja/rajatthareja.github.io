@@ -92,7 +92,7 @@ ul.tweet_list li span {
 }
 #top-bar {
 	background-color:#3B5998;
-	border-bottom:5px solid #2f2f2f;
+	border-bottom:3px solid #fff;
 	padding:15px 0 15px 0;
 }
 #top-bar-content {
@@ -442,7 +442,7 @@ ul.tweet_list li span {
 	bottom:0;
 	height:60px;
 	background-color:#3B5998;
-	border-top:5px solid #2f2f2f;
+	border-top:3px solid #fff;
 	width:100%;
 	display:block;
 	vertical-align: baseline;
